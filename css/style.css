@@ -1,0 +1,47 @@
+			h1 {
+				text-align: center;
+			}
+			
+			.piedra {
+				position: absolute;
+			
+			}
+			.piedra img{
+				margin-left:400px;
+				width:10%;
+				height:auto;
+			}
+			.papel {
+				position:absolute;
+				left:680px;
+				top:120px;
+				}
+			.papel img{
+				width:10%;
+				height:auto;
+				}	
+			.tijera {
+				position:absolute;
+				width:100%;
+				left:800px;
+				top:100px;
+
+			}
+			.tijera img {
+				width:8%;
+				height:auto;
+			}
+			.display {
+				margin-top:160px;
+				margin-left:500px;
+			}
+			.square {
+				border: 2px solid grey;
+				height:20px;
+				width:20%;
+				margin-top:180px;
+				margin-left:450px;
+			}
+			.square span {
+				padding-left: 98px;
+			}
